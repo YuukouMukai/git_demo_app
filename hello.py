@@ -1,3 +1,3 @@
 # Python test for CloudAcademy
-print("Hello World!")
+print("Hello World! $DATE")
 print("CloudAcademy Test!")
